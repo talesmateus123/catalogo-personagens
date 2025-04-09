@@ -1,0 +1,25 @@
+/* Estilos Globais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: salmon;
+  }
+
+  
+  /* Grid de Personagens */
+  .characters-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+    padding: 15rem;
+    color: aliceblue;
+    padding: 0;
+  }
+
+  
+  
+  
+    
+  
